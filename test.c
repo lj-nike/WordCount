@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 {
 
     FILE *fp;
-    int line = 1, str = 0, word = 0, pu = 0, ch = 0;
+    int str = 0, word = 0, ch = 0;
 	char *str2 = "-c";
 	char *str3 = "-w";
 	char *path = "./";
