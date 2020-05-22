@@ -21,7 +21,7 @@ int main(int argc, char const *argv[])
         printf("can't open file");
         return 0;
     }
-  
+  	 
 
     ch = fgetc(fp);
     
