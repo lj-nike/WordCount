@@ -24,7 +24,7 @@ int main(int argc, char const *argv[])
   
 
     ch = fgetc(fp);
-    str++;
+    
     while (ch != EOF)
     {
     
